@@ -2,11 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9a54f6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+it's+Ester+Amaral+here!;Welcome+to+my+github!)](https://git.io/typing-svg)
 
-Olá, seja muito bem-vindo!
-Sou apaixonada por coisas criativas, desafios e por descobrir novos talentos.
-Além de tecnologia e inovação, a minha paixão tmabém é a música 🎹🎶!
+               Olá, seja muito bem-vindo!
+               Sou apaixonada por coisas criativas, desafios e por descobrir novos talentos.
+               Além de tecnologia e inovação, a minha paixão tmabém é a música 🎹🎶!
 
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ester-Amaral&show_icons=true&count_private=true&hide_border=true&title_color=9a54f6&icon_color=9a54f6&text_color=9a54f6&bg_color=0d1117" alt="Ester Amaral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Amaral&layout=compact&hide_border=true&title_color=9a54f6&text_color=9a54f6&bg_color=0d1117" />
+</div>
 
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
