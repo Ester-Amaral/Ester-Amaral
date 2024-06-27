@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9a54f6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+it's+Ester+Amaral+here!;Welcome+to+my+github!)](https://git.io/typing-svg)
 
+Olá, seja muito bem-vindo!
+Sou apaixonada por coisas criativas, desafios e por descobrir novos talentos.
+Além de tecnologia e inovação, a minha paixão tmabém é a música 🎹🎶!
+
+
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
