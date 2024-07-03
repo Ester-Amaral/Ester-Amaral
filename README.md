@@ -7,8 +7,8 @@
                Além de tecnologia e inovação, a minha paixão também é a música 🎹🎶!
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ester-Amarl&show_icons=true&count_private=true&hide_border=true&title_color=9a54f6&icon_color=9a54f6&text_color=9a54f6&bg_color=0d1117" alt="Ester Amaral github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Amarl&layout=compact&hide_border=true&title_color=9a54f6&text_color=9a54f6&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ester-Amaral&show_icons=true&count_private=true&hide_border=true&title_color=9a54f6&icon_color=9a54f6&text_color=9a54f6&bg_color=0d1117" alt="Ester Amaral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Amaral&layout=compact&hide_border=true&title_color=9a54f6&text_color=9a54f6&bg_color=0d1117" />
 </div>
 
 ### Main skills:
